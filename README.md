@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <img alt="Franq Challenge" title="#Franq Challenge" src="https://i.ibb.co/NYHs9wN/logo.png" width="250px" />
+</h1>
+<p align="center">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lvieira268/franq-challenge">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <a href="https://www.linkedin.com/in/lvieira268/">
+    <img alt="Made by Letícia Vieira" src="https://img.shields.io/badge/made%20by-LetíciaVieira-%2304D361">
+  </a>
 
-## Available Scripts
+  <a href="https://github.com/lvieira268/franq-challenge/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lvieira268/franq-challenge">
+  </a>
 
-In the project directory, you can run:
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+<p align="center">
+  <a href="#-Projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Como-Usar">Como usar</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-### `npm start`
+## :computer: Projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h1 align="center">
+    <img alt="Example" title="Example" src="https://i.ibb.co/CV9tSSD/Home-postagens.png" width="100%" />
+</h1>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## :rocket: Tecnologias
 
-### `npm test`
+Tecnologias utilizadas neste projeto:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [ReactJS][reactjs]
 
-### `npm run build`
+## :art: Layout
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Layout criado com Figma.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :information_source: Como Usar
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Para clonar e rodar essa aplicação, você precisa [Git](https://git-scm.com) + [Yarn][yarn] instalados na sua máquina.
 
-### `npm run eject`
+No seu terminal:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Instale Aplicação
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+# Clone this repository
+$ git clone https://github.com/lvieira268/franq-challenge
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Go into the repository
+$ cd franq-challenge
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Install dependencies
+$ yarn install
 
-## Learn More
+# Run
+$ yarn start
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# running on port 3000
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Made with :heart: by Letícia Vieira :wave: [Get in touch!](https://www.linkedin.com/in/lvieira268/)
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[typescript]: https://www.typescriptlang.org/
+[reactjs]: https://reactjs.org
+[jsonserver]: https://github.com/typicode/json-server
+[yarn]: https://yarnpkg.com/
