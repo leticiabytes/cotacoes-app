@@ -15,6 +15,13 @@
 	"ignorePatterns": ["*.test.js", "*.test.tsx"],
 	"rules": {
 		"react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
-		"react/react-in-jsx-scope": "off"
+		"react/react-in-jsx-scope": "off",
+    "react/function-component-definition": [0, {
+      "namedComponents": "arrow-function",
+      "unnamedComponents": "arrow-function"
+    }],
+    "jsx-a11y/label-has-associated-control":"off",
+    "no-unused-vars": "off",
+    "react/prop-types": "off"
 	}
 }
